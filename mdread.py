@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""mdread — render markdown files beautifully in the terminal (powered by rich)."""
+"""mdread - render markdown files beautifully in the terminal (powered by rich)."""
 
 import sys
 import argparse
